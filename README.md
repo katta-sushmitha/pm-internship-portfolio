@@ -1,5 +1,4 @@
-
-### 🧪 Internship 1: Early Project Management Internship
+# 🧪 Internship 1: Early Project Management Internship
 
 > **Role:** Project Intern → Team Lead  
 > **Team Size:** 5 members across 3+ time zones and varying age groups  
