@@ -1,4 +1,3 @@
----
 
 ### 🧪 Internship 1: Early Project Management Internship
 
