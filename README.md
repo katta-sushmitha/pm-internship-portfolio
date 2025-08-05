@@ -71,6 +71,22 @@ Includes:
 - 📊 Stakeholder-ready outputs
 
 ---
+## 🧰 Project Management Dashboards – ClickUp
+
+During my Associate-Level Internship, I led a team of 5 using **ClickUp** for planning, tool evaluation, and progress tracking.
+
+🗂️ View full dashboard screenshots here:  
+🔗 [ClickUp Dashboards – Google Drive](https://drive.google.com/drive/folders/19bClVWw0yIOFxorPMTwu4BiabaJBEOXR?usp=sharing)
+
+### Highlights:
+- 📅 **Timeline & Milestone Planning**  
+- ✅ **Task Management and Assignments**  
+- 🔍 **Tool Evaluation & Work Breakdown (WBS)**  
+- 📊 **ClickUp Workspace Setup for Remote Team Collaboration**
+
+> These dashboards reflect real-time cross-time-zone management, documentation clarity, and tool-based execution.
+
+---
 
 ## 💬 Reflections
 
