@@ -8,6 +8,7 @@
 
 I led a diverse remote team of 5, coordinating tasks across different time zones and experience levels. My responsibilities included team alignment, tracking progress, and preparing key project documents and presentations.
 
+## 📂 Deliverables Folder
 📁 [View All Internship Deliverables (Google Drive Folder)](https://drive.google.com/drive/folders/1uXcl4NNlSeSL-UEu-EvtEiH02pYv2-0W?usp=drive_link)
 
 Deliverables include:
@@ -17,7 +18,9 @@ Deliverables include:
 - 🚨 Severity Matrix  
 - 🎯 Presentation Slides  
 - 🎥 Final Presentation Recording
-
+- 
+  ## 💬 Reflections
+  Leading a diverse, cross-time-zone team taught me the value of clear documentation, proactive planning, and empathetic communication — skills that shaped my foundation as a project manager.
 > This experience shaped my ability to manage distributed teams, communicate clearly, and deliver results under real project conditions.
 
 # 🚀 Internship 2 -  Associate-Level Project Management Internship (Tool-Focused)
@@ -35,9 +38,7 @@ This repository showcases my deliverables and leadership contributions from an a
 ---
 
 ## 📂 Deliverables Folder
-
 📁 [🔗 View Associate Internship Files (Google Drive Folder)](https://drive.google.com/drive/folders/12MT4gjLtVszi7rpRSD-ApJyhKwSwABdj?usp=drive_link)
-
 Includes:
 
 - 👥 Team Charter  
