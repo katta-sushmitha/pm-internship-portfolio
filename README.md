@@ -26,8 +26,6 @@ Deliverables include:
 
 This repository showcases my deliverables and leadership contributions from an associate-level internship focused on project management using tools like ClickUp. The experience centered on tool evaluation, planning, breakdown structures, and remote team collaboration.
 
----
-
 ## 💼 Role Overview
 
 - 🧩 **Role:** Associate Project Coordinator – Team Lead  
