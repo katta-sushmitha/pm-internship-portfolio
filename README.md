@@ -25,6 +25,7 @@ Deliverables include:
 > This experience shaped my ability to manage distributed teams, communicate clearly, and deliver results under real project conditions.
 
 # 🚀 Internship 2 -  Associate-Level Project Management Internship (Tool-Focused)
+<img width="1024" height="768" alt="04  Flowchart" src="https://github.com/user-attachments/assets/e3736395-03bb-4294-84f6-ab5accf8d8e4" />
 
 This repository showcases my deliverables and leadership contributions from an associate-level internship focused on project management using tools like ClickUp. The experience centered on tool evaluation, planning, breakdown structures, and remote team collaboration.
 
