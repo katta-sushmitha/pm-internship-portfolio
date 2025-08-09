@@ -1,6 +1,7 @@
 # 🧪 Internship 1: Early Project Management Internship
 
-> **Role:** Project Intern → Team Lead  
+> **Role:** Project Intern → Team Lead  <img width="1024" height="768" alt="Brown Pastel Flowchart Diagram Graph Template" src="https://github.com/user-attachments/assets/1a21cd36-9a0b-4746-865a-b85dcb1333b9" />
+
 > **Team Size:** 5 members across 3+ time zones and varying age groups  
 > **Focus:** Team leadership, cross-cultural collaboration, documentation, and risk analysis
 
